@@ -2,7 +2,7 @@ import pythoncom
 import Pyfemap
 from Pyfemap import constants as feConstants
 import sys
-sys.path.append(r"C:\Users\nicho\Documents\Projects\Scripting\femap-api-tools")
+sys.path.append(r"C:\Users\nicho\Documents\Projects\GitHub\femap-api-tools")
 import win32com.client as win32
 
 def connect():
